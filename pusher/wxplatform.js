@@ -29,6 +29,10 @@ var wxplatform = {
   //获取用户集合
   getWXReceiver = function () {
 
+  },
+  //发送消息
+  sendMessage = function(){
+
   }
 }
 
